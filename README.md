@@ -1,16 +1,15 @@
-# GitHub Pages
-
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
-Hey sandyc07-26!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/sandyc07-26/sandy-cadet-portfolio/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+# Sandy Cadet | Academic Portfolio
+Welcome to my academic portfolio.
+This portfolio highlights my interests across biological sciences, astrophysics, medicine and scientific computing. It includes post explroing how computational tool can be used to solve scientific and intersdisplinaruy questions.
+## Portfolio Topics
+- Biological Sciences
+- Astrophysics and Astrobiology
+- Medicine and Medical Research
+- Space Medicine
+- Scientific Computing
+- Data Analysis
+## Featured Posts
+- Computational Tools in Moderm Science
+- Space Medicine: Protecting Human Health Beyond Earth
+## About This Site
+This portfolio was created using Github pages and will continue to develop as I gain experience in research.
